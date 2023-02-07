@@ -4,3 +4,9 @@ pandas
 nbresuse[resources]
 jupyter_contrib_nbextensions
 uproot
+
+awkward~=1.4
+matplotlib~=3.4
+scipy~=1.7
+uproot~=4.0
+vector>=0.8.2
