@@ -1,5 +1,3 @@
 numpy==1.14.5
-awkward
 matplotlib~=3.4
 uproot
-
