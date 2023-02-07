@@ -3,4 +3,4 @@ matplotlib
 pandas
 nbresuse[resources]
 jupyter_contrib_nbextensions
-exercise2
+uproot
